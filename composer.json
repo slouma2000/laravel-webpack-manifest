@@ -1,10 +1,10 @@
 {
-  "name": "malyusha/laravel-webpack-assets",
+  "name": "slouma2000/laravel-webpack-manifest",
   "description": "Package to use WebpackManifestPlugin in laravel",
   "keywords": ["laravel", "webpack", "laravel-webpack", "laravel assets", "assets", "mix"],
   "type": "package",
   "require": {
-    "php": ">=7.0",
+    "php": ">=7.1",
     "illuminate/support": "^5.4",
     "illuminate/routing": "^5.4"
   },
